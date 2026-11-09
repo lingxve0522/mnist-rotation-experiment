@@ -1,0 +1,35 @@
+{
+  "x_train": {
+    "shape": [
+      60000,
+      28,
+      28
+    ],
+    "idx_md5": "f68b3c2dcbeaaa9fbdd348bbdeb94873",
+    "idx_identical": true
+  },
+  "y_train": {
+    "shape": [
+      60000
+    ],
+    "idx_md5": "d53e105ee54ea40749a09fcbcd1e9432",
+    "idx_identical": true
+  },
+  "x_test": {
+    "shape": [
+      10000,
+      28,
+      28
+    ],
+    "idx_md5": "9fb629c4189551a2d022fa330f9573f3",
+    "idx_identical": true
+  },
+  "y_test": {
+    "shape": [
+      10000
+    ],
+    "idx_md5": "ec29112dd5afa0611ce80d1b7f02629c",
+    "idx_identical": true
+  },
+  "keras_sha256": "731c5ac602752760c8e48fbffcf8c3b850d9dc2a2aedcf2cc48468fc17b673d1"
+}
